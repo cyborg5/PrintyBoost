@@ -4,3 +4,5 @@ Complete details can be found at https://learn.adafruit.com/printy-boost-reimagi
 Designed by Chris Young
 
 The two jpeg images are image maps for the Blender 3d source files.
+
+Updated 12/18/2015 because some slicers imported the files scaled 1000 x too small.
